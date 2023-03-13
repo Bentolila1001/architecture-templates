@@ -12,3 +12,11 @@ Default template for node project (quick start).
 * Lint Staged
 * Husky
 * Jest
+
+## Devops
+
+Used Github Actions 
+
+Workflows: 
+* Code scanning
+* Continuous Integration Workflow 
