@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Bentolila1001/architecture-templates/issues"
   },
-  "homepage": "https://github.com/Bentolila1001/architecture-templates#readme"
+  "homepage": "https://github.com/Bentolila1001/architecture-templates#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.9.2"
+  }
 }
