@@ -1,6 +1,6 @@
 # architecture-templates
 
-Default template for node project.
+Default template for node project (quick start).
 
 ## Libraries and Tools
 
